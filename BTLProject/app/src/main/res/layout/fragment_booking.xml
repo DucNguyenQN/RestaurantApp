@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BookingFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="32dp"
+>
+
+        <TextView
+            android:id="@+id/textView20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:text="Tên"
+            android:textColor="@color/black"/>
+
+        <EditText
+            android:id="@+id/edt_booking_name"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:ems="10"
+            android:inputType="text"
+            android:textSize="18sp"
+            android:padding="12dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/edittext_backgound"/>
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:text="Số điện thoại"
+            android:textColor="@color/black"/>
+
+        <EditText
+            android:id="@+id/edt_booking_phonenumber"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/edittext_backgound"
+            android:ems="10"
+            android:inputType="number"
+            android:padding="12dp"
+            android:textSize="18sp" />
+        <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:text="Ngày"
+            android:textColor="@color/black"/>
+
+        <EditText
+            android:id="@+id/edt_booking_date"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:ems="10"
+            android:inputType="text"
+            android:textSize="18sp"
+            android:padding="12dp"
+            android:drawableRight="@drawable/baseline_calendar_month_24"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/edittext_backgound"/>
+        <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:text="Số người"
+            android:textColor="@color/black"/>
+
+        <EditText
+            android:id="@+id/edt_booking_numberofguest"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/edittext_backgound"
+            android:ems="10"
+            android:inputType="number"
+            android:padding="12dp"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:text="Khác"
+            android:textColor="@color/black"/>
+
+        <EditText
+            android:id="@+id/edt_special_request"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:ems="10"
+            android:inputType="text"
+            android:textSize="18sp"
+            android:padding="12dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/edittext_backgound"/>
+
+        <Button
+            android:id="@+id/btn_booking"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="130dp"
+            android:text="Đặt bàn"
+            android:background="@drawable/back_ground_toast"
+            />
+    </LinearLayout>
+</FrameLayout>
