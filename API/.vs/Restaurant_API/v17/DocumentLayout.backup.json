@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BFC1FB-F5A6-454F-A093-BAFBC0A88395}|Restaurant.API\\Restaurant.API.csproj|d:\\tailieu\\n4_hk1\\project\\new folder\\restaurant.api\\models\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BFC1FB-F5A6-454F-A093-BAFBC0A88395}|Restaurant.API\\Restaurant.API.csproj|solutionrelative:restaurant.api\\models\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BFC1FB-F5A6-454F-A093-BAFBC0A88395}|Restaurant.API\\Restaurant.API.csproj|d:\\tailieu\\n4_hk1\\project\\new folder\\restaurant.api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BFC1FB-F5A6-454F-A093-BAFBC0A88395}|Restaurant.API\\Restaurant.API.csproj|solutionrelative:restaurant.api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BFC1FB-F5A6-454F-A093-BAFBC0A88395}|Restaurant.API\\Restaurant.API.csproj|d:\\tailieu\\n4_hk1\\project\\new folder\\restaurant.api\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BFC1FB-F5A6-454F-A093-BAFBC0A88395}|Restaurant.API\\Restaurant.API.csproj|solutionrelative:restaurant.api\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BFC1FB-F5A6-454F-A093-BAFBC0A88395}|Restaurant.API\\Restaurant.API.csproj|d:\\tailieu\\n4_hk1\\project\\new folder\\restaurant.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BFC1FB-F5A6-454F-A093-BAFBC0A88395}|Restaurant.API\\Restaurant.API.csproj|solutionrelative:restaurant.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BFC1FB-F5A6-454F-A093-BAFBC0A88395}|Restaurant.API\\Restaurant.API.csproj|d:\\tailieu\\n4_hk1\\project\\new folder\\restaurant.api\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BFC1FB-F5A6-454F-A093-BAFBC0A88395}|Restaurant.API\\Restaurant.API.csproj|solutionrelative:restaurant.api\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BFC1FB-F5A6-454F-A093-BAFBC0A88395}|Restaurant.API\\Restaurant.API.csproj|d:\\tailieu\\n4_hk1\\project\\new folder\\restaurant.api\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BFC1FB-F5A6-454F-A093-BAFBC0A88395}|Restaurant.API\\Restaurant.API.csproj|solutionrelative:restaurant.api\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BFC1FB-F5A6-454F-A093-BAFBC0A88395}|Restaurant.API\\Restaurant.API.csproj|d:\\tailieu\\n4_hk1\\project\\new folder\\restaurant.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9BFC1FB-F5A6-454F-A093-BAFBC0A88395}|Restaurant.API\\Restaurant.API.csproj|solutionrelative:restaurant.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BFC1FB-F5A6-454F-A093-BAFBC0A88395}|Restaurant.API\\Restaurant.API.csproj|d:\\tailieu\\n4_hk1\\project\\new folder\\restaurant.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9BFC1FB-F5A6-454F-A093-BAFBC0A88395}|Restaurant.API\\Restaurant.API.csproj|solutionrelative:restaurant.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Restaurant.API\\Models\\CartItem.cs",
+              "ToolTip": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\Models\\CartItem.cs",
+              "RelativeToolTip": "Restaurant.API\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:32:24.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Restaurant.API\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Restaurant.API\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:24:16.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "Restaurant.API\\Models\\MenuItem.cs",
+              "ToolTip": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\Models\\MenuItem.cs",
+              "RelativeToolTip": "Restaurant.API\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:22:55.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Restaurant.API\\Models\\Category.cs",
+              "ToolTip": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\Models\\Category.cs",
+              "RelativeToolTip": "Restaurant.API\\Models\\Category.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:09:08.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\Models\\DTO\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "Restaurant.API\\Models\\DTO\\CategoryDTO.cs",
+              "ToolTip": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\Models\\DTO\\CategoryDTO.cs",
+              "RelativeToolTip": "Restaurant.API\\Models\\DTO\\CategoryDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:05:54.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Restaurant.API\\Repository\\CategoryRepository.cs",
+              "ToolTip": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Restaurant.API\\Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:23:55.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Restaurant.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Restaurant.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T14:21:23.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Restaurant.API\\appsettings.json",
+              "ToolTip": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\appsettings.json",
+              "RelativeToolTip": "Restaurant.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T14:21:08.157Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

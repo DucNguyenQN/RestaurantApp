@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\wwwroot\\images\\confirmed.jpg",
+      "PackagePath": "staticwebassets\\images\\confirmed.jpg"
+    },
+    {
+      "Id": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\wwwroot\\images\\mango.png",
+      "PackagePath": "staticwebassets\\images\\mango.png"
+    },
+    {
+      "Id": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\wwwroot\\images\\menuitem\\788c8dc0-05e1-4eae-b6e5-b5315f3096ac.png",
+      "PackagePath": "staticwebassets\\images\\menuitem\\788c8dc0-05e1-4eae-b6e5-b5315f3096ac.png"
+    },
+    {
+      "Id": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\wwwroot\\images\\menuitem\\9f19e6e9-d9b1-4985-84b7-3844609eb508.png",
+      "PackagePath": "staticwebassets\\images\\menuitem\\9f19e6e9-d9b1-4985-84b7-3844609eb508.png"
+    },
+    {
+      "Id": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\wwwroot\\images\\menuitem\\carrot love.jpg",
+      "PackagePath": "staticwebassets\\images\\menuitem\\carrot love.jpg"
+    },
+    {
+      "Id": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\wwwroot\\images\\menuitem\\hakka noodles.jpg",
+      "PackagePath": "staticwebassets\\images\\menuitem\\hakka noodles.jpg"
+    },
+    {
+      "Id": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\wwwroot\\images\\menuitem\\idli.jpg",
+      "PackagePath": "staticwebassets\\images\\menuitem\\idli.jpg"
+    },
+    {
+      "Id": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\wwwroot\\images\\menuitem\\malai kofta.jpg",
+      "PackagePath": "staticwebassets\\images\\menuitem\\malai kofta.jpg"
+    },
+    {
+      "Id": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\wwwroot\\images\\menuitem\\paneer pizza.jpg",
+      "PackagePath": "staticwebassets\\images\\menuitem\\paneer pizza.jpg"
+    },
+    {
+      "Id": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\wwwroot\\images\\menuitem\\paneer tikka.jpg",
+      "PackagePath": "staticwebassets\\images\\menuitem\\paneer tikka.jpg"
+    },
+    {
+      "Id": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\wwwroot\\images\\menuitem\\pani puri.jpg",
+      "PackagePath": "staticwebassets\\images\\menuitem\\pani puri.jpg"
+    },
+    {
+      "Id": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\wwwroot\\images\\menuitem\\rasmalai.jpg",
+      "PackagePath": "staticwebassets\\images\\menuitem\\rasmalai.jpg"
+    },
+    {
+      "Id": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\wwwroot\\images\\menuitem\\spring roll.jpg",
+      "PackagePath": "staticwebassets\\images\\menuitem\\spring roll.jpg"
+    },
+    {
+      "Id": "D:\\TaiLieu\\N4_HK1\\Project\\New folder\\Restaurant.API\\wwwroot\\images\\menuitem\\sweet rolls.jpg",
+      "PackagePath": "staticwebassets\\images\\menuitem\\sweet rolls.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Restaurant.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Restaurant.API.props",
+      "PackagePath": "build\\Restaurant.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Restaurant.API.props",
+      "PackagePath": "buildMultiTargeting\\Restaurant.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Restaurant.API.props",
+      "PackagePath": "buildTransitive\\Restaurant.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
